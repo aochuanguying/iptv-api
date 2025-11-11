@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-11 11:30:37,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2025-11-11 18:20:22,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -101,8 +101,8 @@ CCTV-17,http://yc.myds.me:35455/gaoma/cctv17.m3u8
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 
 🌊港·澳·台,#genre#
-凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
+凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
