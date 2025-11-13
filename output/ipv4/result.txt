@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-13 18:21:22,http://zqh2333.top:2222/rtp/239.93.55.54:5140
+2025-11-14 06:19:25,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 
 📺央视频道,#genre#
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
@@ -12,14 +12,12 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 
 🌊港·澳·台,#genre#
+明珠台,http://bxtv.3a.ink/api.php?id=mz
 凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=20065
 凤凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=20067
 
 🎬电影频道,#genre#
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
