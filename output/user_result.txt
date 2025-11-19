@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-19 18:20:45,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2025-11-20 06:19:42,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -21,30 +21,39 @@ CCTV-6,http://yc.myds.me:35455/itv/6000000001000004574.m3u8?cdn=wasusyt
 CCTV-6,https://live.chinacert.cftest5.cn/mg/?id=624878396
 CCTV-7,http://yc.myds.me:35455/gaoma/cctv7.m3u8
 CCTV-7,https://live.chinacert.cftest5.cn/mg/?id=673168121
+CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
 CCTV-8,http://yc.myds.me:35455/gaoma/cctv8.m3u8
 CCTV-8,https://live.chinacert.cftest5.cn/mg/?id=624878356
+CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
 CCTV-9,http://yc.myds.me:35455/gaoma/cctv9.m3u8
 CCTV-9,https://live.chinacert.cftest5.cn/mg/?id=673168140
+CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10
 CCTV-10,http://yc.myds.me:35455/gaoma/cctv10.m3u8
 CCTV-10,https://live.chinacert.cftest5.cn/mg/?id=624878405
+CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11
 CCTV-11,http://yc.myds.me:35455/gaoma/cctv11.m3u8
 CCTV-11,https://live.chinacert.cftest5.cn/mg/?id=667987558
+CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12
 CCTV-12,http://yc.myds.me:35455/gaoma/cctv12.m3u8
 CCTV-12,https://live.chinacert.cftest5.cn/mg/?id=673168185
+CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-13,http://yc.myds.me:35455/gaoma/cctv13.m3u8
 CCTV-13,https://live.chinacert.cftest5.cn/mg/?id=608807423
+CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,http://yc.myds.me:35455/gaoma/cctv14.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=:20240213104135
 CCTV-14,https://live.chinacert.cftest5.cn/mg/?id=624878440
+CCTV-15,http://bxtv.3a.ink/migu.php?id=cctv15
 CCTV-15,http://yc.myds.me:35455/gaoma/cctv15.m3u8
 CCTV-15,https://live.chinacert.cftest5.cn/mg/?id=673168223
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-16,http://yc.myds.me:35455/gaoma/cctv16.m3u8
+CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CCTV-17,http://yc.myds.me:35455/gaoma/cctv17.m3u8
 CCTV-17,https://live.chinacert.cftest5.cn/mg/?id=673168256
