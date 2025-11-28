@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-28 18:22:05,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2025-11-29 06:17:30,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -136,6 +136,8 @@ CCTV-17,https://live.chinacert.cftest5.cn/mg/?id=673168256
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
+靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
 
 🎬电影频道,#genre#
 CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373
@@ -144,6 +146,10 @@ CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
 淘娱乐,http://missyao.com:35455/bptv/10000100000000050000000003887499.m3u8
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
+纬来电影,http://pullpackage.alivecdn.com/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qsJgqORFprvbBloK6NfqVBD.flv
+靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
+靖天戏剧,http://pullpackage.alivecdn.com/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBry6iYBSe.flv
+东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 
 🪁动画频道,#genre#
 优漫卡通,https://live.chinacert.cftest5.cn/mg/?id=626064703
