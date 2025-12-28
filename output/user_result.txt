@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-28 06:17:30,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2025-12-28 18:19:03,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -145,6 +145,7 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+Now华剧,http://rihou.cc:555/tv/[Hk]Now华剧
 
 🎬电影频道,#genre#
 CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373
