@@ -1,26 +1,15 @@
 🕘️更新时间,#genre#
-2025-12-31 18:21:47,http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
+2026-01-01 06:19:33,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 
 📺央视频道,#genre#
-CCTV-3,http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 
 📡卫视频道,#genre#
-广东卫视,http://btjg.net:809/hls/32/index.m3u8
-广东卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://rihou.cc:555/tv/[AtI]广东卫视
-浙江卫视,http://btjg.net:809/hls/29/index.m3u8
-浙江卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://btjg.net:809/hls/47/index.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.2.34:11358
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802
-黑龙江卫视,http://btjg.net:809/hls/39/index.m3u8
-重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
-广西卫视,http://btjg.net:809/hls/40/index.m3u8
-四川卫视,http://btjg.net:809/hls/48/index.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 四川卫视,http://171.83.103.119:9999/rtp/239.69.2.39:11388
-西藏卫视,http://btjg.net:809/hls/140/index.m3u8
-云南卫视,http://btjg.net:809/hls/53/index.m3u8
 
 ☘️山东频道,#genre#
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
