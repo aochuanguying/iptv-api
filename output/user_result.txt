@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-10 18:19:26,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2026-01-11 06:18:52,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -68,10 +68,13 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1746093625-2ln6mv1hv9ixvyubfdm32l0edhwgiqw7-0-d989b083951d17cd5c43bdd0538cbe3f
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.72:10720
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.2.34:11358
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802
 湖南卫视,http://yc.myds.me:35455/itv/5000000004000006692.m3u8?cdn=bestzb
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://yc.myds.me:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 湖北卫视,http://yc.myds.me:35455/itv/6000000001000015436.m3u8?cdn=wasusyt
@@ -83,6 +86,7 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 安徽卫视,http://yc.myds.me:35455/itv/6000000001000009954.m3u8?cdn=wasusyt
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 重庆卫视,http://yc.myds.me:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1746334807-ddb61092a75249868c8bd1834313f437-0-8a760296d281d86bc4612f5fc4f85247
 东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1746162006-718c0d1373f7409eada27f8dbe2094f2-0-b3064557b1865cbf12be599d750986fb
@@ -94,8 +98,8 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 东南卫视,http://yc.myds.me:35455/itv/5000000004000010584.m3u8?cdn=bestzb
 东南卫视,https://live.chinacert.cftest5.cn/mg/?id=849116810
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
 广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
@@ -131,8 +135,8 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 辽宁卫视,https://live.chinacert.cftest5.cn/mg/?id=630291707
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-青海卫视,http://23.237.228.134/live8/shandong.m3u8
 青海卫视,http://23.237.228.134/live8/qinghai.m3u8
+青海卫视,http://23.237.228.134/live8/shandong.m3u8
 青海卫视,https://live.chinacert.cftest5.cn/mg/?id=947472506
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山东卫视,http://yc.myds.me:35455/itv/6000000001000004134.m3u8?cdn=wasusyt
@@ -166,10 +170,10 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 
 🌊港·澳·台,#genre#
-翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[Bx]凤凰中文
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
