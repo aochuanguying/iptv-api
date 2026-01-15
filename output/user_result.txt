@@ -1,12 +1,16 @@
 🕘️更新时间,#genre#
-2026-01-15 06:21:05,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2026-01-15 18:22:57,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 CCTV-1,https://live.chinacert.cftest5.cn/mg/?id=608807420
+CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-2,http://yc.myds.me:35455/gaoma/cctv2.m3u8
 CCTV-2,https://live.chinacert.cftest5.cn/mg/?id=631780532
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV-3,http://hczn.x3322.net:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://117.36.76.86:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://yc.myds.me:35455/gaoma/cctv3.m3u8
 CCTV-3,https://live.chinacert.cftest5.cn/mg/?id=624878271
 CCTV-4,http://yc.myds.me:35455/gaoma/cctv4.m3u8
@@ -21,14 +25,17 @@ CCTV-5,http://yc.myds.me:35455/gaoma/cctv5.m3u8
 CCTV-5,https://live.chinacert.cftest5.cn/mg/?id=641886683
 CCTV-5+,http://yc.myds.me:35455/gaoma/cctv5p.m3u8
 CCTV-5+,https://live.chinacert.cftest5.cn/mg/?id=641886773
+CCTV-6,http://183.57.249.119:8183/tsfile/live/0006_1.m3u8
 CCTV-6,http://yc.myds.me:35455/itv/6000000001000004574.m3u8?cdn=wasusyt
 CCTV-6,https://live.chinacert.cftest5.cn/mg/?id=624878396
+CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-7,http://yc.myds.me:35455/gaoma/cctv7.m3u8
 CCTV-7,https://live.chinacert.cftest5.cn/mg/?id=673168121
 CCTV-8,http://23.237.228.134/live5/CCTV8.m3u8
 CCTV-8,http://yc.myds.me:35455/gaoma/cctv8.m3u8
 CCTV-8,https://live.chinacert.cftest5.cn/mg/?id=624878356
-CCTV-9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8
+CCTV-9,http://23.237.228.134/live5/CCTV9.m3u8
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=30fc35e9cf406821053b649c4295feea
 CCTV-9,http://yc.myds.me:35455/gaoma/cctv9.m3u8
 CCTV-9,https://live.chinacert.cftest5.cn/mg/?id=673168140
 CCTV-10,http://yc.myds.me:35455/gaoma/cctv10.m3u8
@@ -137,8 +144,8 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 青海卫视,https://live.chinacert.cftest5.cn/mg/?id=947472506
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山东卫视,http://yc.myds.me:35455/itv/6000000001000004134.m3u8?cdn=wasusyt
-山西卫视,http://23.237.228.134/live8/shanxiws.m3u8
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
+山西卫视,http://23.237.228.134/live8/shanxiws.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 陕西卫视,https://live.chinacert.cftest5.cn/mg/?id=738910838
@@ -169,8 +176,8 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 🌊港·澳·台,#genre#
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
