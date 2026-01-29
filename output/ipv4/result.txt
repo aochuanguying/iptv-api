@@ -1,9 +1,11 @@
 🕘️更新时间,#genre#
-2026-01-29 06:24:45,http://23.237.228.134/live5/CCTV1.m3u8
+2026-01-29 18:35:04,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV-2,http://pull-flv-f11.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770014656&major_anchor_level=common&sign=48f3509f25d6d54030f37837f0882293&t_id=037-202601261444154AF9E571813B527DA2AA-HGx1i8&unique_id=stream-695106910011261612_684_flv
+CCTV-2,http://113.218.204.144:9002/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
@@ -17,15 +19,17 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 📡卫视频道,#genre#
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8
@@ -44,6 +48,7 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
+纬来体育,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5459
 
 🎬电影频道,#genre#
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
