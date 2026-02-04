@@ -1,11 +1,13 @@
 🕘️更新时间,#genre#
-2026-02-04 06:40:58,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-04 18:36:47,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 CCTV-1,https://live.chinacert.cftest5.cn/mg/?id=608807420
 CCTV-1,http://pull-hs-f5.flive.douyincdn.com/media/stream-407016150428549804/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770677034&major_anchor_level=common&sign=d5431678f90e8ea341292c0a3d67848a&t_id=037-202602030643530D45A69759B7F235C141-vAzOuL&volcSecret=d5431678f90e8ea341292c0a3d67848a&volcTime=1770677034
+CCTV-1,http://pull-hs-f5.flive.douyincdn.com/media/stream-407021867836113580/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770763405&major_anchor_level=common&sign=c4dc7e4234218d257b338d35f9d355b0&t_id=037-20260204064325B608CC16A9A9C68CBC94-n4HUzp&volcSecret=c4dc7e4234218d257b338d35f9d355b0&volcTime=1770763405
+CCTV-2,http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&wsSecret=85bb061c39ad9227e9c420993c2e56b8&wsTime=697ea150
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-2,http://yc.myds.me:35455/gaoma/cctv2.m3u8
 CCTV-2,https://live.chinacert.cftest5.cn/mg/?id=631780532
@@ -39,9 +41,9 @@ CCTV-10,http://yc.myds.me:35455/gaoma/cctv10.m3u8
 CCTV-10,https://live.chinacert.cftest5.cn/mg/?id=624878405
 CCTV-11,http://yc.myds.me:35455/gaoma/cctv11.m3u8
 CCTV-11,https://live.chinacert.cftest5.cn/mg/?id=667987558
-CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV-12,http://yc.myds.me:35455/gaoma/cctv12.m3u8
 CCTV-12,https://live.chinacert.cftest5.cn/mg/?id=673168185
+CCTV-13,http://pull-hls-f1.douyincdn.com/media/stream-695236781635011244/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084040762AD6EF7F62F847F9C7-jI2I18&wsSecret=85681436b041bea9851727386a1a8d2c&wsTime=697ea108
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
@@ -58,6 +60,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 CCTV-14,https://live.chinacert.cftest5.cn/mg/?id=624878440
 CCTV-15,http://yc.myds.me:35455/gaoma/cctv15.m3u8
 CCTV-15,https://live.chinacert.cftest5.cn/mg/?id=673168223
+CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-16,http://yc.myds.me:35455/gaoma/cctv16.m3u8
 CCTV-17,http://yc.myds.me:35455/gaoma/cctv17.m3u8
 CCTV-17,https://live.chinacert.cftest5.cn/mg/?id=673168256
@@ -80,8 +83,6 @@ CCTV-17,http://pull-hs-f5.flive.douyincdn.com/media/stream-695234889566126764/in
 浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1746093625-2ln6mv1hv9ixvyubfdm32l0edhwgiqw7-0-d989b083951d17cd5c43bdd0538cbe3f
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802
 湖南卫视,http://yc.myds.me:35455/itv/5000000004000006692.m3u8?cdn=bestzb
 北京卫视,http://yc.myds.me:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
@@ -129,13 +130,11 @@ CCTV-17,http://pull-hs-f5.flive.douyincdn.com/media/stream-695234889566126764/in
 吉林卫视,https://live.chinacert.cftest5.cn/mg/?id=947472500
 江苏卫视,http://yc.myds.me:35455/itv/6000000001000014861.m3u8?cdn=wasusyt
 江苏卫视,https://live.chinacert.cftest5.cn/mg/?id=623899368
-江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
 江西卫视,http://yc.myds.me:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
 江西卫视,https://live.chinacert.cftest5.cn/mg/?id=783847495
 辽宁卫视,http://yc.myds.me:35455/itv/5000000004000011671.m3u8?cdn=bestzb
 辽宁卫视,https://live.chinacert.cftest5.cn/mg/?id=630291707
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-青海卫视,http://23.237.228.134/live8/qinghai.m3u8
 青海卫视,https://live.chinacert.cftest5.cn/mg/?id=947472506
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山东卫视,http://yc.myds.me:35455/itv/6000000001000004134.m3u8?cdn=wasusyt
@@ -145,13 +144,11 @@ CCTV-17,http://pull-hs-f5.flive.douyincdn.com/media/stream-695234889566126764/in
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 深圳卫视,http://yc.myds.me:35455/itv/5000000004000007410.m3u8?cdn=bestzb
 三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=c509d0ea1747156492
-天津卫视,http://23.237.228.134/live8/tianjing.m3u8
 天津卫视,http://yc.myds.me:35455/itv/5000000004000006827.m3u8?cdn=bestzb
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=4eca0fb428c7390f0e7cdee6a0044c78&time=6817e4bb
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=afa6fbb9cc7add965ab98221ae0d8596&time=681691e7
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=ddde6b45f5065c5066ded53d6559f31c&time=68134627
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=8256c872ff0deaa54124f36a4655c97e&time=6810e978
-云南卫视,http://23.237.228.134/live8/yunnan.m3u8
 
 ☘️山东频道,#genre#
 山东少儿,http://livealone302.iqilu.com/iqilu/sepd.m3u8
