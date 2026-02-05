@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-05 06:25:44,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-05 18:39:02,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -72,8 +72,8 @@ CCTV-17,http://pull-hs-f5.flive.douyincdn.com/media/stream-695234889566126764/in
 广东卫视,http://yc.myds.me:35455/itv/6000000001000031076.m3u8?cdn=wasusyt
 广东卫视,https://live.chinacert.cftest5.cn/mg/?id=608831231
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -166,6 +166,8 @@ CCTV-17,http://pull-hs-f5.flive.douyincdn.com/media/stream-695234889566126764/in
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 
 🌊港·澳·台,#genre#
+翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+明珠台,http://hls.168.us.kg/u/84/master.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
