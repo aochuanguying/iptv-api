@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2026-03-03 06:25:24,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+2026-03-03 18:36:24,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 
 📺央视频道,#genre#
+CCTV-4,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV-6,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv6hd/4000000/mnf.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
