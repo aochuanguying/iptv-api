@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-30 06:28:59,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-03-30 19:00:11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -15,6 +15,9 @@ CCTV-16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 
 📡卫视频道,#genre#
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 
 ☘️山东频道,#genre#
