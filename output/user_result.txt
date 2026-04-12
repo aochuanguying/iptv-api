@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-12 18:37:00,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-04-13 06:30:46,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -279,7 +279,6 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 江西卫视,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260228060219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=218.28.233.106&SecurityKey=20260228060219&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4a3f96e1b51b0a89c2b3f08af8a04595&sv=10004&ct=android
 江西卫视,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260302060218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=218.28.233.106&SecurityKey=20260302060218&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b2277cbcc7f4f182b16d11606c7cc043&sv=10004&ct=android
 江西卫视,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260303060204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=218.28.233.106&SecurityKey=20260303060204&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e762ceac913ba428ba4b5a5cccad2191&sv=10004&ct=android
-辽宁卫视,http://61.184.46.85:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://yc.myds.me:35455/itv/5000000004000011671.m3u8?cdn=bestzb
 辽宁卫视,https://live.chinacert.cftest5.cn/mg/?id=630291707
 辽宁卫视,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/lnwshd265/54/20200407/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260215080207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=218.28.233.106&SecurityKey=20260215080207&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9cbf54f17dab989e41757dd1a2a4b966&sv=10004&ct=android
