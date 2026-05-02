@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-02 18:48:47,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-05-03 06:37:47,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -20,7 +20,6 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
