@@ -1,8 +1,10 @@
 🕘️更新时间,#genre#
-2026-05-08 07:00:11,http://111.170.156.74:3344/央视/cctv.php?id=cctv4k
+2026-05-08 19:14:17,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-4,http://111.170.156.74:3344/央视/cctv.php?id=cctv4k
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a0a64f9506443d9b4f88e8f2ceea82cf
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📡卫视频道,#genre#
@@ -13,6 +15,7 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
+CHC动作电影,http://61.184.46.85:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
