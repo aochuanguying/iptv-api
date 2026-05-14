@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-14 19:51:45,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-15 06:55:09,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
 CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=06d61993614312350fe8ed0861a8be3d
 
 📡卫视频道,#genre#
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
