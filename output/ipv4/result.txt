@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-17 19:04:23,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-18 06:52:41,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
@@ -7,7 +7,6 @@ CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-4,http://hao6688.3322.org:30066/stream/channelid/722781944?ticket=87f224de949a7a0ebd5a4cf1f8a480d4abdf729f&profile=pass
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
 CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=12e324365e5fe37f99c3757e36709fd0
 CCTV-10,http://hao6688.3322.org:30066/stream/channelid/436563839?ticket=da46b80b76785d5a8675a1e693c3722c3cd3f28d&profile=pass
 CCTV-11,http://hao6688.3322.org:30066/stream/channelid/1853027132?ticket=139976274b987e374e5816089cb1ae8aedbacc74&profile=pass
 CCTV-12,http://hao6688.3322.org:30066/stream/channelid/1186766229?ticket=bc6e76f1a2882842c64d6d563cb6b732df4a483a&profile=pass
@@ -26,7 +25,6 @@ CCTV-17,http://hao6688.3322.org:30066/stream/channelid/1311739751?ticket=4dbdea1
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-CHC动作电影,http://hao6688.3322.org:30066/stream/channelid/977583088?ticket=7b9e177c908c4e8de248874e7d6d2762825064d6&profile=pass
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
