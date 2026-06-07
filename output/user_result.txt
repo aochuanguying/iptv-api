@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-07 07:01:02,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2026-06-07 19:47:35,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -331,8 +331,8 @@ CETV-4,https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb422
 天津卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd
 天津卫视,http://198.204.228.26/live/tjwshd.m3u8
 天津卫视,http://yc.myds.me:35455/itv/5000000004000006827.m3u8?cdn=bestzb
-西藏卫视,http://198.204.228.26/live/xzws.m3u8
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
+西藏卫视,http://198.204.228.26/live/xzws.m3u8
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=4eca0fb428c7390f0e7cdee6a0044c78&time=6817e4bb
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=afa6fbb9cc7add965ab98221ae0d8596&time=681691e7
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=ddde6b45f5065c5066ded53d6559f31c&time=68134627
