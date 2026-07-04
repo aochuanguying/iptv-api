@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-04 06:59:26,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2026-07-04 19:24:58,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -347,8 +347,6 @@ CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 
 🌊港·澳·台,#genre#
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
-翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
@@ -368,7 +366,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
 淘娱乐,http://missyao.com:35455/bptv/10000100000000050000000003887499.m3u8
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
-天映经典,http://o11.163189.xyz/stream/live/ccm/
 
 🪁动画频道,#genre#
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
