@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-04 19:24:58,http://198.204.228.26/live/cctv6hd.m3u8
+2026-07-05 06:56:28,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
-CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📡卫视频道,#genre#
