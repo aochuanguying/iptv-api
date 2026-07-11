@@ -1,17 +1,14 @@
 🕘️更新时间,#genre#
-2026-07-11 19:02:05,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
+2026-07-12 06:44:23,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
-CCTV-3,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-湖南卫视,http://182.37.41.46:8154/tsfile/live/0128_1.m3u8?key=txiptv
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-深圳卫视,http://182.37.41.46:8154/tsfile/live/0126_1.m3u8?key=txiptv
 天津卫视,http://182.37.41.46:8154/tsfile/live/0135_1.m3u8?key=txiptv
 
 ☘️山东频道,#genre#
