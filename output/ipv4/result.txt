@@ -1,14 +1,28 @@
 🕘️更新时间,#genre#
-2026-07-23 06:58:41,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-23 19:50:36,http://104.152.209.49:8181/720p/cctv5p.m3u8
 
 📺央视频道,#genre#
+CCTV-5,http://104.152.209.49:8181/720p/cctv5p.m3u8
+CCTV-5,http://104.152.209.49:8181/720p/cctv5.m3u8
+CCTV-5,http://116.1.148.123:9901/newlive/live/hls/15/live.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
+CCTV-16,http://104.152.209.49:8181/720p/cctv16.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://104.152.209.49:8181/720p/gdws.m3u8
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
+浙江卫视,http://104.152.209.49:8181/720p/zjws.m3u8
+湖南卫视,http://104.152.209.49:8181/720p/hnws.m3u8
+北京卫视,http://104.152.209.49:8181/720p/bjws.m3u8
+安徽卫视,http://104.152.209.49:8181/720p/ahws.m3u8
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
+东方卫视,http://104.152.209.49:8181/720p/dfws.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
+河南卫视,http://104.152.209.49:8181/720p/haws.m3u8
+江苏卫视,http://104.152.209.49:8181/720p/jsws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+深圳卫视,http://104.152.209.49:8181/720p/szws.m3u8
+深圳卫视,http://fuxin.yunjifei.top:999/tsfile/live/0126_1.m3u8?key=txiptv
 
 ☘️山东频道,#genre#
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
