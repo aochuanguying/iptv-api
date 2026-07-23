@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-23 19:50:36,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2026-07-24 06:53:55,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
