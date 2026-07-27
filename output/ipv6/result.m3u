@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/aochuanguying/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-27 20:55:33
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-28 06:58:32
 http://yc.myds.me:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -375,6 +375,8 @@ http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/gdwshd265/54/20200407/index.m
 http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260303060204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20260303060204&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=870a3b6befc079219bce5c86cf662dde&sv=10004&ct=android
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="📡卫视频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="📡卫视频道",香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
@@ -691,6 +693,8 @@ http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="🌊港·澳·台",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="🌊港·澳·台",香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🌊港·澳·台",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
