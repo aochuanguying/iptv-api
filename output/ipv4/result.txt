@@ -1,10 +1,12 @@
 🕘️更新时间,#genre#
-2026-08-06 06:56:21,http://115.171.216.40:4000/rtp/225.1.8.20:8004
+2026-08-06 20:03:10,http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=70ba7ec30965743accbcfb926a58fd7c&wsTime=6a6c7613&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-2026073118165145DD5015353E316620A0-ZYOHNH
 
 📺央视频道,#genre#
+CCTV-2,http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=70ba7ec30965743accbcfb926a58fd7c&wsTime=6a6c7613&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-2026073118165145DD5015353E316620A0-ZYOHNH
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
 CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
+CCTV-14,http://txycdn1.video.qq.com/1755770102.m3u8?time=1785941057&cdn=txycdn&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIBA-YQWRxFu7J_B3d8yggd7R9_NShiJsCBr7TK5hikPoENy-2LNgrU9m5JTEiWtXIy4BcOSNCOU5o3q2J6H0ZeRbGgB0nxEU2x4tLwnu8O11CkFtM_gKKjk9LEVcpFylIMtgQejZHcOF5uK7-JyVdPG2JfEckZLQQLdV8exJ_zxGFW0K3-Y4JdbBM6_47HbPcrRPddqtJ4_jBHI2zowiDPrDEba_U3nprqCvP1NQrFGwQIJ9gUA04DyZ3tY2usG_Pi_LbzBKcakTVMSqL-LxquRGyflzcSvV31-8t5_nbT52nEuUBxy3dZgmIj3_EtAL9n2zwt66yB8331ueL1w3n1o5INTdv_aXd9d0oC5BoVIm4JvWfB3_ScQ7XS84oYOTOOknyEO56ij3hFjk2USYf_1q3snE2iEG8bT0bMfygMHluJHpW9GXAlht5wdCDQsMxEQ2flp9eg3_QPPCzqgeEzKgrybCJvGTt4qqxkD6NkDHb-9wAa6_NwTG7yDfv4hr1qzNtFzjhFjAYDyGOHAgpB2KrLqF_7FI3GHNq5euWou9f4DX&drmtype=0
 
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
