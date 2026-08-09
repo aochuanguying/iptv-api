@@ -1,15 +1,39 @@
 🕘️更新时间,#genre#
-2026-08-09 06:24:59,http://115.171.216.40:4000/rtp/225.1.8.20:8004
+2026-08-09 18:31:21,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2
 
 📺央视频道,#genre#
+CCTV-2,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
 CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+CCTV-5+,http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
+CCTV-6,http://113.101.119.74:8090/hls/118/index.m3u8
+CCTV-6,http://219.147.245.238:25480/newlive/live/hls/7/live.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
+CCTV-8,http://219.147.245.238:25480/newlive/live/hls/9/live.m3u8
+CCTV-9,http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
+CCTV-10,http://219.147.245.238:25480/newlive/live/hls/11/live.m3u8
+CCTV-11,http://113.101.119.74:8090/hls/123/index.m3u8
+CCTV-12,http://219.147.245.238:25480/newlive/live/hls/13/live.m3u8
+CCTV-14,http://219.147.245.238:25480/newlive/live/hls/15/live.m3u8
+CCTV-15,http://219.147.245.238:25480/newlive/live/hls/16/live.m3u8
+CCTV-16,http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
+安徽卫视,http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
+河北卫视,http://120.40.39.246:352/newlive/live/hls/33/live.m3u8
+内蒙古卫视,http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+内蒙古卫视,http://1.192.152.76:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://1.192.152.76:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+山东卫视,http://120.40.39.246:352/newlive/live/hls/35/live.m3u8
+天津卫视,http://113.101.119.74:8090/hls/132/index.m3u8
+西藏卫视,http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+新疆卫视,http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+新疆卫视,http://1.192.152.76:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://1.192.152.76:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️山东频道,#genre#
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
@@ -30,5 +54,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
+金鹰卡通,http://1.192.152.76:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🏛经典剧场,#genre#
