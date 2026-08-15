@@ -1,18 +1,30 @@
 🕘️更新时间,#genre#
-2026-08-15 06:20:00,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2
+2026-08-15 18:19:48,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2
 
 📺央视频道,#genre#
 CCTV-2,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2
 CCTV-2,http://125.71.73.4:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
+CCTV-6,http://221.226.51.220:50081/newlive/live/hls/7/live.m3u8
+CCTV-6,http://123.175.209.118:9003/hls/7/index.m3u8
+CCTV-7,http://123.175.209.118:9003/hls/8/index.m3u8
 CCTV-9,http://125.71.73.4:9901/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://125.71.73.4:9901/tsfile/live/faacts/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,http://123.175.209.118:9003/hls/18/index.m3u8
+CCTV-11,http://123.175.209.118:9003/hls/12/index.m3u8
+CCTV-12,http://123.175.209.118:9003/hls/13/index.m3u8
+CCTV-13,http://118.122.144.115:8888/newlive/live/hls/14/live.m3u8
+CCTV-13,http://221.226.51.220:50081/newlive/live/hls/14/live.m3u8
 
 📡卫视频道,#genre#
-安徽卫视,http://123.175.209.118:9003/hls/21/index.m3u8
+北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
+北京卫视,http://123.175.209.118:9003/hls/20/index.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-内蒙古卫视,http://118.193.115.2:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://124.228.160.210:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://123.175.209.118:9003/hls/37/index.m3u8
+四川卫视,http://183.142.200.28:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://123.175.209.118:9003/hls/43/index.m3u8
+天津卫视,http://183.142.200.28:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://183.142.200.28:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️山东频道,#genre#
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
@@ -24,6 +36,7 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
+龙祥电影,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34825
 
 🪁动画频道,#genre#
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
