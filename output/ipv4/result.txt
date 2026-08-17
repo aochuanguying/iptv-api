@@ -1,24 +1,12 @@
 🕘️更新时间,#genre#
-2026-08-17 18:29:58,http://118.122.144.115:8888/newlive/live/hls/3/live.m3u8
+2026-08-18 06:22:03,http://115.171.216.40:4000/rtp/225.1.8.20:8004
 
 📺央视频道,#genre#
-CCTV-3,http://118.122.144.115:8888/newlive/live/hls/3/live.m3u8
-CCTV-3,http://221.226.51.220:50081/newlive/live/hls/3/live.m3u8
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
 
 📡卫视频道,#genre#
-广东卫视,http://118.122.144.115:8888/newlive/live/hls/34/live.m3u8
-甘肃卫视,http://118.193.115.2:9901/tsfile/live/0139_2.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://123.149.41.183:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://118.193.115.2:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-吉林卫视,http://118.193.115.2:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://218.13.138.139:59901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://118.193.115.2:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://123.149.41.183:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://123.149.41.183:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://118.193.115.2:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://218.1.138.153:9003/hls/23/index.m3u8
 新疆卫视,http://118.193.115.2:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️山东频道,#genre#
@@ -31,7 +19,6 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
-龙祥电影,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34825
 
 🪁动画频道,#genre#
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
