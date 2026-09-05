@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-05 21:15:04,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+2026-09-06 07:31:46,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
 📺央视频道,#genre#
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
@@ -17,8 +17,8 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 龙祥电影,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34825
+龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 
 🪁动画频道,#genre#
 
