@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-10 22:03:40,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2026-09-11 07:40:02,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -382,7 +382,6 @@ CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 🌊港·澳·台,#genre#
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
-凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
