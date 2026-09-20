@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-20 07:52:57,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2026-09-20 21:56:09,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -388,7 +388,6 @@ CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-纬来育乐,http://31.43.191.125:8080/restream/restream/34849
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 🎬电影频道,#genre#
