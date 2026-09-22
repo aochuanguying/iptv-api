@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-09-22 08:34:04,http://www.negative.top:50000/rtp/233.50.200.165:5140
+2026-09-22 22:20:24,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a675621eefaea3492eeac86056a22759
 
 📺央视频道,#genre#
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a675621eefaea3492eeac86056a22759
 
 📡卫视频道,#genre#
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
