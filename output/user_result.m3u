@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/aochuanguying/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-24 08:14:00
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-24 21:49:27
 http://yc.myds.me:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -168,7 +168,7 @@ http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cctv8hd265/54/20200407/index.
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 http://fn.gcl.de5.net:5908/gsh950428/624878356
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=454a0b5a2f4c67245e47d51b1c0aa680
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=dd69c5b93b2bb56f553e843ee6fa0e35
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 http://yc.myds.me:35455/gaoma/cctv9.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
@@ -303,6 +303,8 @@ http://yc.myds.me:35455/gaoma/cctv16.m3u8
 http://yc.myds.me:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 https://live.chinacert.cftest5.cn/mg/?id=673168256
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
+http://pull-hls-f26.douyincdn.com/media/stream-118704554834395820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69780e69&major_anchor_level=common&sign=3110e51e78d0ef28cef8b792af1560fa&t_id=037-20260120090129CB135EAED6411C70974A-WTvAu3
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://pull-hs-f5.flive.douyincdn.com/media/stream-695234889566126764/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770510943&major_anchor_level=common&sign=dd29a839e4c1695baa854e62d1520175&t_id=037-20260201083542E2A9E7FA3B89F8A17BA8-arf6Qh&volcSecret=dd29a839e4c1695baa854e62d1520175&volcTime=1770510943
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
