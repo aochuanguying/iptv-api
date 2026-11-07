@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-07 01:08:37,http://yc.myds.me:35455/gaoma/cctv1.m3u8
+2026-11-07 09:34:43,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -258,7 +258,6 @@ CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810
 东南卫视,http://fn.gcl.de5.net:5908/gsh950428/849116810
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-广西卫视,http://59.39.89.130:60901/tsfile/live/0125_22.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
 广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8

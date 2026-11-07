@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-11-07 01:08:37,http://74.91.26.218:82/live/gdwshd.m3u8
+2026-11-07 09:34:43,http://74.91.26.218:82/live/gdwshd.m3u8
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
 东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
-广西卫视,http://59.39.89.130:60901/tsfile/live/0125_22.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 
